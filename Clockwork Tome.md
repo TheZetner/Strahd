@@ -1,0 +1,2 @@
+- Source of [[Callan Feldspar]]'s artificer powers
+- Stolen from a clockmaker in an early heist

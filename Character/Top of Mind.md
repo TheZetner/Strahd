@@ -1,0 +1,3 @@
+- Disadvantage on DEX
+- You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+- Add INT mod to all healing or damage from acid/fire/poison/necrotic  

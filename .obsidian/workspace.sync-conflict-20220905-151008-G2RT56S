@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "cb958d5582442d57",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd81bd331d641728",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Callan Feldspar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc95e3f5f65e25bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d35437d8e7cdf99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dec147a63e33820",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f21e4eae74b7d02d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#NPCs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb8d0174acbd44f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2924309d9f6609b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ed88bd6d92cee0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Callan Feldspar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd81bd331d641728",
+  "lastOpenFiles": [
+    "20220905.md",
+    "Levki.md",
+    "Vistani.md",
+    "20220905.sync-conflict-20220905-144403-G2RT56S.md",
+    "Ravenloft.md",
+    "Barovia (Lands).md",
+    "20220805.md",
+    "Give Doru Peace.md",
+    "Players/Kira.md",
+    "Character/Spells.md"
+  ]
+}

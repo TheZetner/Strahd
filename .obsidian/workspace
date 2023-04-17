@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "cb958d5582442d57",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd81bd331d641728",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20220905.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caa38171613776b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "07db662c68aa3fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d72c44bd1d5894",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5bcfa8017d94fea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43512ed1d1ac0b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e82be13bad89ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da41aed6651fbc9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20220905.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd81bd331d641728",
+  "lastOpenFiles": [
+    "Character/Spells.md",
+    "20220905.md",
+    "Madame Eva.md",
+    "Homunculus Servant.md",
+    "Infusion.md",
+    "20220805.md",
+    "Jerry.md",
+    "Spells.md",
+    "Enhanced Arcane Focus.md",
+    "Enhanced Defense.md"
+  ]
+}

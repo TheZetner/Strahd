@@ -1,0 +1,8 @@
+- Jester's outfit
+- Bard at the [[Vallaki#Blue Water Inn]]
+- Working on new show to be debut'd at the [[festival of the burning sun]]
+	- Will be doing a dress rehearsal at the blue water in 
+- Has a cart and a tiger
+	- Has been trapped in Barovia for a month or so
+	- Staying in room 4 (stairs behind the bar)
+- "Permanent" resident of the tavern

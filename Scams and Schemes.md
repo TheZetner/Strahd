@@ -1,0 +1,2 @@
+- Using [the right tool for the job](https://5e.tools/classes.html#artificer_tce,state:feature=s2-1~isshowfluff=b1~sub-alchemist-tce=b1) [[Callan Feldspar]] will often sell [[Artisan's Tools]] to marks in other cities that disappear after he pulls the stunt again
+	- Favourites are the [[Tinker's Tools]] because of their relatively high cost and his rock gnome mystique lending credibility to the scam
